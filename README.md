@@ -34,7 +34,7 @@ d. Run the project and test the endpoints using your browser or Postman.
    ![Example of Filter Endpoint](./img/filter.PNG)
    
    Sorting Endpoint: http://localhost:8092/products/sort/price
-   ![Example of Sorting Endpoint](./img/filter.PNG)
+   ![Example of Sorting Endpoint](./img/sort.PNG)
 
 
 ## 3. Technical Decision
