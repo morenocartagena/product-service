@@ -1,4 +1,4 @@
-Author: Mario Efraín Moreno Cartagena
+Author: Mario Efraín Moreno Cartagena  
 Email: morenocartagena@outlook.com
 
 ## Technical Test - Java Developer
@@ -18,7 +18,7 @@ a. Clone the project from GitHub
 git clone https://github.com/morenocartagena/product-service
 ```
 
-c. Configure the Port
+b. Configure the Port
 Set the available port on your local machine in the application.yml file for the web server. The 
 default port is 8092.
 
